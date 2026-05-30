@@ -2,8 +2,6 @@
   <img src="assets/neural-network.svg" width="100%" />
 </p>
 
-# Hi, I'm Jacopo 👋
-
 Computer Science student at the University of Pisa.
 
 I'm interested in Artificial Intelligence, Machine Learning and distributed systems. I enjoy building software that combines algorithms, networking and concurrency, and I'm always looking for opportunities to work on research-oriented projects.
