@@ -27,7 +27,6 @@
         font-weight: 700;
         fill: #e5e7eb;
         letter-spacing: 4px;
-        text-trasform: uppercase;
       }
 
       .subtitle {
@@ -233,7 +232,7 @@
   </g>
 
   <g text-anchor="middle">
-    <text x="600" y="135" class="title">Jacopo Andrea Bianco</text>
+    <text x="600" y="135" class="title">JACOPO ANDREA BIANCO</text>
     <line x1="360" y1="158" x2="840" y2="158" stroke="url(#lineGradient)" stroke-width="2" filter="url(#glow)">
       <animate attributeName="x1" values="420;330;420" dur="4s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="780;870;780" dur="4s" repeatCount="indefinite"/>
