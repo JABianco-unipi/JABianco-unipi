@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Jacopo+Andrea+Bianco;Computer+Science+Student;Interested+in+Artificial+Intelligence;Machine+Learning+and+Distributed+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1200&center=true&vCenter=true&width=1000&lines=Jacopo+Andrea+Bianco;Computer+Science+Student+%40+University+of+Pisa;Interested+in+Artificial+Intelligence;Building+Systems,+Networks+and+Algorithms" />
 </p>
 
 # Hi, I'm Jacopo 👋
