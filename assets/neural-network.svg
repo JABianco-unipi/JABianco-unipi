@@ -27,7 +27,6 @@
         font-weight: 700;
         fill: #e5e7eb;
         letter-spacing: 4px;
-        filter: url(#glow);
       }
 
       .subtitle {
