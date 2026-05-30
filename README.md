@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3500&pause=1200&center=true&vCenter=true&width=1000&lines=Jacopo+Andrea+Bianco;Computer+Science+Student+%40+University+of+Pisa;Interested+in+Artificial+Intelligence;Building+Systems,+Networks+and+Algorithms" />
+  <img src="assets/neural-network.svg" width="100%" />
 </p>
 
 # Hi, I'm Jacopo 👋
