@@ -1,4 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:141E30,100:243B55&text=Jacopo%20Andrea%20Bianco&fontColor=ffffff&fontSize=42"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Jacopo+Andrea+Bianco;Computer+Science+Student;Interested+in+Artificial+Intelligence;Machine+Learning+and+Distributed+Systems" />
+</p>
+
 # Hi, I'm Jacopo 👋
 
 Computer Science student at the University of Pisa.
