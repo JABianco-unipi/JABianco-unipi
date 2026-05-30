@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=gradient&customColorList=12,2,20,30&text=Jacopo%20Andrea%20Bianco&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=0:000000,100:0F9D58&text=Jacopo%20Andrea%20Bianco&fontColor=00FF00&fontSize=38"/>
 
 # Hi, I'm Jacopo 👋
 
